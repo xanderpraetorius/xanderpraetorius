@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/xander-weimann-praetorius" target="\\\_blank">
+  <a href="https://www.linkedin.com/in/xander-weimann-praetorius/" target="\\\_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Xander%20W.%20Praetorius-0A66C2?style=flat-square\\\&logo=linkedin\\\&logoColor=white" />
   </a>
   \\\&nbsp;
@@ -15,7 +15,7 @@
   \\\&nbsp;
   <img src="https://img.shields.io/badge/Location-Stellenbosch%20%7C%20Ghent-555?style=flat-square" />
   \\\&nbsp;
-  <img src="https://img.shields.io/badge/Target-MBB%20%2F%20Big%204%20Strategy-6C47FF?style=flat-square" />
+
 </p>
 
 \---
@@ -24,7 +24,7 @@
 
 Engineer specialising in applied AI and data strategy. My research integrates NLP and machine learning into qualitative customer data mining pipelines, translating raw behavioural signals into business model innovation frameworks. I work at the intersection of deep technical implementation and strategic commercial value, with hands-on experience across PyTorch, Hugging Face Transformers, and large-scale dataset engineering.
 
-Currently completing a research exchange at Ghent University (Deep Generative Models, NLP) while finalising my MEng thesis at Stellenbosch. Actively targeting a career in data and AI strategy consulting.
+Currently completing a research exchange at Ghent University (Deep Generative Models, NLP, Cognitive and Brain Inspired AI) while finalising my MEng thesis at Stellenbosch. Actively targeting a career in data and AI strategy consulting.
 
 \---
 
