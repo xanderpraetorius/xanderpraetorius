@@ -66,6 +66,6 @@ Currently completing a research exchange at Ghent University (Deep Generative Mo
 
 <p align="center">
   <sub>Open to roles in data and AI strategy consulting, analytics, and AI product management.</sub><br>
-  <sub>Reach out via <a href="https://www.linkedin.com/in/xander-w-praetorius">LinkedIn</a> or <a href="mailto:xander9praetorius@gmail.com">email</a>.</sub>
+  <sub>Reach out via <a href="https://www.linkedin.com/in/xander-weimann-praetorius/">LinkedIn</a> or <a href="mailto:xander9praetorius@gmail.com">email</a>.</sub>
 </p>
 
