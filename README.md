@@ -1,11 +1,11 @@
-<h1 align="center">Xander Weimann Praetorius</h1>
+<h1 align="center">Xander W. Praetorius</h1>
 
 <p align="center">
-  <em>Data and AI Strategist \\\&nbsp;·\\\&nbsp; MEng Engineering Management (Stellenbosch) \\\&nbsp;·\\\&nbsp; MEng Computer Science Engineering (Ghent)</em>
+  <em>Data and AI Strategist &nbsp;·&nbsp; MEng Engineering Management (Stellenbosch) &nbsp;·&nbsp; MEng Computer Science Engineering (Ghent)</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/xander-w-praetorius" target="\\\_blank">
+  <a href="www.linkedin.com/in/xander-weimann-praetorius" target="\\\_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Xander%20W.%20Praetorius-0A66C2?style=flat-square\\\&logo=linkedin\\\&logoColor=white" />
   </a>
   \\\&nbsp;
