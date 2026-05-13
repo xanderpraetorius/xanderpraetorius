@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-xander9praetorius%40gmail.com-D14836?style=flat-square\\\&logo=gmail\\\&logoColor=white" />
   </a>
   \\\&nbsp;
-  <img src="https://img.shields.io/badge/Location-Stellenbosch%20%7C%20Ghent-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location:-Stellenbosch%20%7C%20Ghent-555?style=flat-square" />
   \\\&nbsp;
 
 </p>
@@ -77,15 +77,6 @@ Currently completing a research exchange at Ghent University (Deep Generative Mo
 
 \---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username\\\&show\\\_icons=true\\\&theme=default\\\&hide\\\_border=true\\\&count\\\_private=true" height="150" />
-  \\\&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\\\&layout=compact\\\&theme=default\\\&hide\\\_border=true" height="150" />
-</p>
-
-\---
 
 <p align="center">
   <sub>Open to roles in data and AI strategy consulting, analytics, and AI product management.</sub><br>
